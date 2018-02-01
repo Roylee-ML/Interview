@@ -1,12 +1,14 @@
 # 组件化总结
 
 <br>
+
 ## 索引
 
 1. [组件化方案](https://coding.net/u/roylee/p/Interview/git/blob/master/model_source.md#组件化方案)
 2. [私有 PodSpec](https://coding.net/u/roylee/p/Interview/git/blob/master/model_source.md#私有-podspec)
 
 <br>
+
 ## 组件化方案
 
 ### 组件化的使用场景
@@ -95,8 +97,8 @@
 * MatrixConfig.plist 作为主配置文件，存储路由各个模块的 plist
 * 每个模块按既定规则配置 plist 文件，淘宝采用 `模块名_boundle.plist` 的方式命名
 
-
 <br>
+
 ## 私有 PodSpec
 
 
