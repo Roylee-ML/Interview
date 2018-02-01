@@ -1,11 +1,12 @@
-# 组件化
+# 组件化总结
 
+<br>
 ## 索引
-1. [组件化总结](https://coding.net/u/roylee/p/Interview/git/blob/master/model_source.md#组件化总结)
-2. [私有 PodSpec 使用](https://coding.net/u/roylee/p/Interview/git/blob/master/model_source.md#私有-podspec-使用)
+1. [组件化方案](https://coding.net/u/roylee/p/Interview/git/blob/master/model_source.md#组件化方案)
+2. [私有 PodSpec](https://coding.net/u/roylee/p/Interview/git/blob/master/model_source.md#私有-podspec)
 
-
-## 组件化总结
+<br>
+## 组件化方案
 
 ### 组件化的使用场景
 
@@ -94,8 +95,8 @@
 * 每个模块按既定规则配置 plist 文件，淘宝采用 `模块名_boundle.plist` 的方式命名
 
 
-
-## 私有 PodSpec 使用
+<br>
+## 私有 PodSpec
 
 
 ### Pod spec 使用指南：
