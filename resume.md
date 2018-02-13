@@ -65,7 +65,7 @@
 
 Swift 仿写的 Prisma iOS 客户端
 
-* 曾上过 github trending oc 榜数日
+* 曾上过 github trending swift 榜数日
 * AVFoundation 实现自定义相机，Photos 实现相册采集
 
 
