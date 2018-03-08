@@ -5,7 +5,7 @@
 * Email：[roylee.stillway@gmail.com](roylee.stillway@gmail.com)
 * Github：[https://github.com/Roylee-ML](https://github.com/Roylee-ML)
 * 工作经验：2 年半
-* 教育经历：上东建筑大学肄业，北京蓝鸥科技 iOS 培训
+* 教育经历：上东建筑大学（2008.08 - 2009.02）
 * 求职意向：iOS 开发工程师
 * 期望薪资：22k+
 
@@ -13,6 +13,7 @@
 
 * 北京九州云动科技有限公司 （2016.10 至今）
 * 微巨星（北京）管理有限公司 （2015.10 - 2016.09）
+* 橱柜型材加工及汽修行业 （2009.08 - 2015.02）
 
 ## 项目经历
 
