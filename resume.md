@@ -5,9 +5,25 @@
 * Email：[roylee.stillway@gmail.com](roylee.stillway@gmail.com)
 * Github：[https://github.com/Roylee-ML](https://github.com/Roylee-ML)
 * 工作经验：2 年半
-* 教育经历：上东建筑大学（2008.08 - 2009.02）
+* 教育经历：山东建筑大学（2008.08 - 2009.02）
 * 求职意向：iOS 开发工程师
 * 期望薪资：22k+
+
+## 开源贡献
+
+#### [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) **（1.3k+ star）**
+
+实现半糖、美丽说等首页效果，具有公共 Header 的横滑组件
+
+* 2.0 版本之前采用 UIKit Dynamic 实现公共 header 的联动，3.0 采用更友好的方式实现，很好的支持了 UITableView。目前，也开源了 [HBHybridCollectionView](https://github.com/Roylee-ML/HBHybridCollectionView) 作为 UICollectionView 的替代方案
+* **[博客文章](http://error408.com/2016/07/14/SwipeTableView/)曾被 CocoaChina、简书推荐**
+
+#### [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker)
+
+Swift 仿写的 Prisma iOS 客户端
+
+* **曾上过 github trending swift 榜数日**
+* AVFoundation 实现自定义相机，Photos 实现相册采集
 
 ## 工作经历 
 
@@ -52,22 +68,6 @@
 * 独立开发整个项目，从 0 到 1
 * MVC 方式搭建主体框架，部分模块配合 MVVM 使用
 * 封装 AVPlayer 实现视频播放，自定义转场效果支持横竖屏切换
-
-## 开源
-
-#### [SwipeTableView](https://github.com/Roylee-ML/SwipeTableView) （1.3k+ star）
-
-实现半糖、美丽说等首页效果，具有公共 Header 的横滑组件
-
-* 2.0 版本之前采用 UIKit Dynamic 实现公共 header 的联动，3.0 采用更友好的方式实现，很好的支持了 UITableView。目前，也开源了 [HBHybridCollectionView](https://github.com/Roylee-ML/HBHybridCollectionView) 作为 UICollectionView 的替代方案
-* [博客文章](http://error408.com/2016/07/14/SwipeTableView/)曾被 CocoaChina、简书推荐
-
-#### [PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker)
-
-Swift 仿写的 Prisma iOS 客户端
-
-* 曾上过 github trending swift 榜数日
-* AVFoundation 实现自定义相机，Photos 实现相册采集
 
 
 
