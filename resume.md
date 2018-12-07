@@ -1,13 +1,13 @@
 ## 个人信息
 
 * 孟亮，男，1989年生
-* 手机号码：15841106276
+* 手机号码：158****6276
 * Email：[roylee.stillway@gmail.com](roylee.stillway@gmail.com)
 * Github：[https://github.com/Roylee-ML](https://github.com/Roylee-ML)
 * 工作经验：2 年半
 * 教育经历：山东建筑大学（2008.08 - 2009.02）
 * 求职意向：iOS 开发工程师
-* 期望薪资：22k+
+* 期望薪资：**
 
 ## 开源贡献
 
